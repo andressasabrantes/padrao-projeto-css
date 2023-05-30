@@ -3,18 +3,16 @@ Esse documento visa estabelecer diretrizes e boas práticas para o desenvolvimen
 
 https://colorful-pendulum-8c4.notion.site/Padr-o-de-Projeto-CSS-Astra-81a87fecc5d7476e885c193976df688d
 
-## O que você encontrar nesse documento:
+## O que você irá encontrar nesse documento:
 
-Explica a importância de um padrão de projeto em CSS para promover consistência e eficiência no desenvolvimento.
+A importância de um padrão de projeto em CSS para promover consistência e eficiência no desenvolvimento.
 
-Fornece dicas para melhorar o desempenho do CSS, como minificação e redução de seletores complexos.
+Dicas para melhorar o desempenho do CSS, como minificação e redução de seletores complexos.
 
-Apresenta diretrizes para o posicionamento de elementos, evitando o uso excessivo de propriedades como position, float e margin.
+Diretrizes para o posicionamento de elementos, evitando o uso excessivo de propriedades como position, float e margin.
 
-Lista algumas ferramentas úteis, como pré-processadores CSS e frameworks, além de referências e recursos adicionais para aprimorar nosso conhecimento em CSS.
+Algumas ferramentas úteis, como pré-processadores CSS e frameworks, além de referências e recursos adicionais para aprimorar nosso conhecimento em CSS.
 
-Aborda técnicas para criar layouts responsivos usando media queries, grid systems e flexbox, garantindo uma experiência consistente em diferentes dispositivos.
+Técnicas para criar layouts responsivos usando media queries, grid systems e flexbox, garantindo uma experiência consistente em diferentes dispositivos.
 
-Descreve as convenções de nomenclatura para classes, IDs, seletores e variáveis CSS, para garantir clareza e previsibilidade no código.
-
-Fornece dicas para melhorar o desempenho do CSS, como minificação e redução de seletores complexos.
+Convenções de nomenclatura para classes, IDs, seletores e variáveis CSS, para garantir clareza e previsibilidade no código.
