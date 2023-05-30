@@ -1,4 +1,4 @@
-# padrao-projeto-css
+# Padrão de Projeto em CSS
 Esse documento visa estabelecer diretrizes e boas práticas para o desenvolvimento de estilos consistentes, reutilizáveis e de fácil manutenção em nossos projetos.
 ## O que você encontrar nesse documento:
 
