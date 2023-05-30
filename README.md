@@ -1,5 +1,8 @@
 # Padrão de Projeto em CSS
 Esse documento visa estabelecer diretrizes e boas práticas para o desenvolvimento de estilos consistentes, reutilizáveis e de fácil manutenção em nossos projetos.
+
+https://colorful-pendulum-8c4.notion.site/Padr-o-de-Projeto-CSS-Astra-81a87fecc5d7476e885c193976df688d
+
 ## O que você encontrar nesse documento:
 
 Explica a importância de um padrão de projeto em CSS para promover consistência e eficiência no desenvolvimento.
